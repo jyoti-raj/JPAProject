@@ -1,0 +1,3 @@
+com\jpa\entities\User.class
+com\jpa\test\JpaProjectApplication.class
+com\jpa\dao\UserRepository.class
